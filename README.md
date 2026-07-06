@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=MUHAMMAD%20TABISH&fontSize=48&fontColor=00ff9c&fontAlignY=55&desc=%3E_%20software.engineer()&descAlignY=80&descColor=39d353&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=MUHAMMAD%20TABISH&fontSize=48&fontColor=00ff9c&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-### `Software Engineer | MERN Stack Developer`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Open+to+Collabs+%F0%9F%9F%A2" />
 
 </div>
 
@@ -91,6 +91,9 @@ Collab  : OPEN — ask me about MERN Stack Development ✅
 
 | Project | Description | Stack |
 |---|---|---|
+| [Job-Portal-App](https://github.com/tabishmishere/Job-Portal-App) | Full-stack job portal app — browse listings, apply, and manage applications | `React` `Vite` `MERN` |
+| [hackathon-nest-api](https://github.com/tabishmishere/hackathon-nest-api) | Production-ready NestJS backend for hackathon management — JWT auth, RBAC, Prisma-ready | `NestJS` `TypeScript` `Prisma` |
+| [AI-Interview-Prep-App](https://github.com/tabishmishere/AI-Interview-Prep-App) | AI-powered interview preparation app *(link pending confirmation)* | `TBD` |
 | [DOM-Practice-Projects-](https://github.com/tabishmishere/DOM-Practice-Projects-) | Hands-on DOM manipulation exercises & mini web projects | `HTML` `JavaScript` |
 
 <br/>
@@ -99,7 +102,6 @@ Collab  : OPEN — ask me about MERN Stack Development ✅
 
 ```json
 current = {
-    "building"  : "Smart Inventory Tracker",
     "learning"  : ["Next.js", "Docker", "TypeScript"],
     "ask_me"    : "MERN Stack Development",
     "motto"     : "Consistency beats intensity — improving every single day."
