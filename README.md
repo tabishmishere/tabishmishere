@@ -8,12 +8,14 @@
 
 <br/>
 
+```bash
+
 ```
 ```yaml
 Name    : Muhammad Tabish
 Handle  : tabishmishere
 Base    : Lahore, Pakistan
-Focus   : Full-Stack Web · MERN · DevOps
+Focus   : Full-Stack Web · MERN · Next.js
 Status  : ▓▓▓▓▓▓▓▓▓▓░░  Learning System Design, Docker & CI/CD, AWS
 Collab  : OPEN — ask me about Full Stack Development
 ```
