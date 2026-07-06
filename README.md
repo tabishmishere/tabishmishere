@@ -8,17 +8,14 @@
 
 <br/>
 
-```bash
-visitor@github:~$ cat ./about_me.txt
 ```
 ```yaml
 Name    : Muhammad Tabish
 Handle  : tabishmishere
-Company : Codaucity
 Base    : Lahore, Pakistan
-Focus   : Full-Stack Web · MERN · Next.js
-Status  : ▓▓▓▓▓▓▓▓▓▓░░  Learning Next.js, Docker & TypeScript
-Collab  : OPEN — ask me about MERN Stack Development ✅
+Focus   : Full-Stack Web · MERN · DevOps
+Status  : ▓▓▓▓▓▓▓▓▓▓░░  Learning System Design, Docker & CI/CD, AWS
+Collab  : OPEN — ask me about Full Stack Development
 ```
 
 <br/>
@@ -93,7 +90,7 @@ Collab  : OPEN — ask me about MERN Stack Development ✅
 |---|---|---|
 | [Job-Portal-App](https://github.com/tabishmishere/Job-Portal-App) | Full-stack job portal app — browse listings, apply, and manage applications | `React` `Vite` `MERN` |
 | [hackathon-nest-api](https://github.com/tabishmishere/hackathon-nest-api) | Production-ready NestJS backend for hackathon management — JWT auth, RBAC, Prisma-ready | `NestJS` `TypeScript` `Prisma` |
-| [AI-Interview-Prep-App](https://github.com/tabishmishere/AI-Interview-Prep-App) | AI-powered interview preparation app *(link pending confirmation)* | `TBD` |
+| [AI-Interview-Prep-App](https://github.com/tabishmishere/AI-Interview-Prep-App) | AI-powered interview preparation app where you can prepare for any interview and get AI generated Answers. | `MERN` |
 | [DOM-Practice-Projects-](https://github.com/tabishmishere/DOM-Practice-Projects-) | Hands-on DOM manipulation exercises & mini web projects | `HTML` `JavaScript` |
 
 <br/>
@@ -102,8 +99,8 @@ Collab  : OPEN — ask me about MERN Stack Development ✅
 
 ```json
 current = {
-    "learning"  : ["Next.js", "Docker", "TypeScript"],
-    "ask_me"    : "MERN Stack Development",
+    "learning"  : ["Next.js", "Docker", "TypeScript", "CI/CD", "AWS"],
+    "ask_me"    : "Full Stack Development",
     "motto"     : "Consistency beats intensity — improving every single day."
 }
 ```
@@ -125,9 +122,8 @@ const contact = {
     github    : "github.com/tabishmishere",
     portfolio : "https://tabishm-portfolio.vercel.app/",
     linkedin  : "linkedin.com/in/muhammadtabish1",
-    topcoder  : "topcoder.com/members/54000",
     email     : "tabishm484@gmail.com",
-    status    : "Open to collabs & opportunities 🟢"
+    status    : "Open to collabs & opportunities"
 };
 
 console.log("Let's build something cool together!");
@@ -141,6 +137,6 @@ console.log("Let's build something cool together!");
 
 <br/><br/>
 
-*// turning ideas into real-world products, one commit at a time*
+*// turning ideas into real-world products.*
 
 </div>
