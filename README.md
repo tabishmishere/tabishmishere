@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=MUHAMMAD%20TABISH&fontSize=48&fontColor=00ff9c&fontAlignY=55&animation=fadeIn" width="100%"/>
+```text
+_|      _|  _|    _|  _|    _|    _|_|    _|      _|  _|      _|    _|_|
+_|_|  _|_|  _|    _|  _|    _|  _|    _|  _|_|  _|_|  _|_|  _|_|  _|    _|
+_|  _|  _|  _|    _|  _|_|_|_|  _|_|_|_|  _|  _|  _|  _|  _|  _|  _|_|_|_|
+_|      _|  _|    _|  _|    _|  _|    _|  _|      _|  _|      _|  _|    _|
+_|      _|    _|_|    _|    _|  _|    _|  _|      _|  _|      _|  _|    _|
+
+_|_|_|        _|_|_|_|_|    _|_|    _|_|_|    _|_|_|    _|_|_|  _|    _|
+_|    _|          _|      _|    _|  _|    _|    _|    _|        _|    _|
+_|    _|          _|      _|_|_|_|  _|_|_|      _|      _|_|    _|_|_|_|
+_|    _|          _|      _|    _|  _|    _|    _|          _|  _|    _|
+_|_|_|            _|      _|    _|  _|_|_|    _|_|_|  _|_|_|    _|    _|
+```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Open+to+Collabs+%F0%9F%9F%A2" />
 
@@ -8,9 +20,6 @@
 
 <br/>
 
-```bash
-
-```
 ```yaml
 Name    : Muhammad Tabish
 Handle  : tabishmishere
@@ -27,6 +36,8 @@ Collab  : OPEN — ask me about Full Stack Development
 **Languages**
 
 <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -47,7 +58,7 @@ Collab  : OPEN — ask me about Full Stack Development
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 **Databases**
@@ -133,8 +144,8 @@ console.log("Let's build something cool together!");
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-tabishmishere-181717?style=for-the-badge&logo=github)](https://github.com/tabishmishere)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-muhammadtabish1-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammadtabish1/)
+[tabishmishere](https://github.com/tabishmishere) · [muhammadtabish1](https://linkedin.com/in/muhammadtabish1/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=tabishmishere&style=for-the-badge&color=39d353&label=PROFILE+VIEWS)
 
 <br/><br/>
