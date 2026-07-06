@@ -1,78 +1,144 @@
-<h1 align="center">Muhammad Tabish 👋</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  I build scalable web applications, turn ideas into real-world products, and continuously refine my craft.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=MUHAMMAD%20TABISH&fontSize=48&fontColor=00ff9c&fontAlignY=55&desc=%3E_%20software.engineer()&descAlignY=80&descColor=39d353&animation=fadeIn" width="100%"/>
+
+### `Software Engineer | MERN Stack Developer`
+
+</div>
+
+<br/>
+
+```bash
+visitor@github:~$ cat ./about_me.txt
+```
+```yaml
+Name    : Muhammad Tabish
+Handle  : tabishmishere
+Company : Codaucity
+Base    : Lahore, Pakistan
+Focus   : Full-Stack Web · MERN · Next.js
+Status  : ▓▓▓▓▓▓▓▓▓▓░░  Learning Next.js, Docker & TypeScript
+Collab  : OPEN — ask me about MERN Stack Development ✅
+```
+
+<br/>
+
+### `> tech.stack`
+
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+**Frontend**
 
-### 🚀 About Me
-
-* 🔭 Currently working on **Smart Inventory Tracker**
-* 🌱 Learning **Next.js, Docker, TypeScript**
-* 💬 Ask me about **MERN Stack Development**
-* ⚡ I enjoy building products that solve real problems
-
----
-
-### 🌐 Portfolio
-
-👉 https://tabishm-portfolio.vercel.app/
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/muhammadtabish1/" target="blank">LinkedIn</a> •
-<a href="https://www.topcoder.com/members/54000" target="blank">TopCoder</a> •
-<a href="mailto:tabishm484@gmail.com">Email</a>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
+**Backend**
 
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Languages
-
-JavaScript • TypeScript • SQL
-
-#### ⚙️ Frontend
-
-React.js • Next.js • Redux • Tailwind CSS • Bootstrap
-
-#### 🔧 Backend
-
-Node.js • Express.js • GraphQL
-
-#### 🗄️ Databases
-
-MongoDB • PostgreSQL • MySQL • Redis
-
-#### ☁️ DevOps & Tools
-
-Docker • AWS • Firebase • Git • Postman • Linux • Figma
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabishmishere&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabishmishere" />
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
----
+**Databases**
 
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tabishmishere&layout=compact" />
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
----
+**DevOps & Tools**
 
-### ✨ Personal Motto
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-> “Consistency beats intensity. I focus on improving every single day.”
+<br/>
+
+### `> github.stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tabishmishere&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=39d353&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tabishmishere&theme=dark&hide_border=true&background=0D1117&stroke=0d1117&ring=00ff9c&fire=39d353&currStreakLabel=00ff9c" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabishmishere&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="45%"/>
+
+</div>
+
+<br/>
+
+### `> pinned.projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| [DOM-Practice-Projects-](https://github.com/tabishmishere/DOM-Practice-Projects-) | Hands-on DOM manipulation exercises & mini web projects | `HTML` `JavaScript` |
+
+<br/>
+
+### `> currently.working_on`
+
+```json
+current = {
+    "building"  : "Smart Inventory Tracker",
+    "learning"  : ["Next.js", "Docker", "TypeScript"],
+    "ask_me"    : "MERN Stack Development",
+    "motto"     : "Consistency beats intensity — improving every single day."
+}
+```
+
+<br/>
+
+### `> activity.graph`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tabishmishere&theme=react-dark&bg_color=0d1117&color=39d353&line=00ff9c&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+### `> contact.init()`
+
+```js
+const contact = {
+    github    : "github.com/tabishmishere",
+    portfolio : "https://tabishm-portfolio.vercel.app/",
+    linkedin  : "linkedin.com/in/muhammadtabish1",
+    topcoder  : "topcoder.com/members/54000",
+    email     : "tabishm484@gmail.com",
+    status    : "Open to collabs & opportunities 🟢"
+};
+
+console.log("Let's build something cool together!");
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-tabishmishere-181717?style=for-the-badge&logo=github)](https://github.com/tabishmishere)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-muhammadtabish1-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammadtabish1/)
+![Profile Views](https://komarev.com/ghpvc/?username=tabishmishere&style=for-the-badge&color=39d353&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+*// turning ideas into real-world products, one commit at a time*
+
+</div>
