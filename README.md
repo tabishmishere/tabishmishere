@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./banner.png.png" alt="Muhammad Tabish Banner" width="100%"/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Developer;Building+Real-World+Products;Open+to+Collaborations+%F0%9F%9F%A2" alt="Typing SVG"/>
 
 <br/><br/>
